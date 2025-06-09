@@ -20,7 +20,7 @@ We are going to be building a lot of SMD PCBs in the future and so we would want
 | ESP32                                     | —                                                                                                                         | 
 | 12V 1A Power Supply                       | [Link](https://www.aliexpress.us/item/3256802541723599.html?spm=a2g0o.cart.0.0.390f38daALcrNV&mp=1&gatewayAdapt=glo2usa)   | 
 | Cooling Fan                               | —                                                                                                                         | 
-| Green LED                                 | [Link](**https://www.digikey.com/en/products/detail/lumex-opto-components-inc/SSI-LXH1090GD/144696)| 
+| Green LED                                 | [Link](https://www.digikey.com/en/products/detail/lumex-opto-components-inc/SSI-LXH1090GD/144696)| 
 | Red LED                                   | [Link](https://www.digikey.com/en/products/detail/lumex-opto-components-inc/SSI-LXH1090SRD/144702)| 
 | Buzzer                                    | —                                                                                                                         |
 | Switch                                    | —                                                                                                                         | 
